@@ -44,6 +44,9 @@ public:
         throw NotImplemented();
     }
 
+    
+    
+    
     int first_repeated_pos(const char* a_string, const char* b_string)
     {
         throw NotImplemented();
